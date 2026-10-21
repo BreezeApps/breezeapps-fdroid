@@ -5,24 +5,20 @@
     "--create-metadata"
   ],
   "fdroiddata": {
-    "commitId": null,
+    "commitId": "fde44c1b58cadde29337e4a9ae076c39176398b3",
     "isDirty": false,
     "modifiedFiles": [],
-    "untrackedFiles": [
-      "config.yml",
-      "keystore.p12",
-      "repo/SparksLyse.Chat_0.1.0_universal.apk"
-    ]
+    "untrackedFiles": []
   },
   "stages": {
-    "delete_disabled_builds": 1792572022517,
-    "index.make repo": 1792572023076,
-    "prepare_apps repo": 1792572023076,
-    "process_apks": 1792572022517,
-    "read_added_date_from_all_apks": 1792572023076,
-    "remove_apks": 1792572023074,
-    "scan_repo_files": 1792572023074
+    "delete_disabled_builds": 1792573080650,
+    "index.make repo": 1792573080652,
+    "prepare_apps repo": 1792573080651,
+    "process_apks": 1792573080651,
+    "read_added_date_from_all_apks": 1792573080651,
+    "remove_apks": 1792573080651,
+    "scan_repo_files": 1792573080651
   },
-  "startTimestamp": 1792568422000,
+  "startTimestamp": 1792569480000,
   "subcommand": "update"
 }
