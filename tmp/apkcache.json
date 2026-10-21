@@ -1,0 +1,40 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "SparksLyse.Chat_0.1.0_universal.apk": {
+    "hash": "df15bb1a1b9bc555de23c803bb3e42bb8d4a4cd8b6d9949ad3763df23cf96533",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "fr.sparkslyse.chat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "fr.sparkslyse.chat",
+    "versionCode": 1000,
+    "name": "SparksLyse Chat",
+    "versionName": "0.1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 37,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "cf7df9be3b67e37c106b970d77bdf029",
+    "signer": "ee21aceeade62c6691fedc2dcb7ea92bd0b7bf6314d83e8b340b9df5952ecf22",
+    "size": 72576401,
+    "apkName": "SparksLyse.Chat_0.1.0_universal.apk",
+    "added": 1792572023.074403
+  }
+}
